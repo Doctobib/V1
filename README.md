@@ -1,6 +1,6 @@
 <h1> V1 </h1>
 <hr>
-<h3>La version une de l'application web Doctobib<h3>
+<h3>La version une de l'application web Doctobib</h3>
 <hr>
  <p>
    Coucou l'équipe, ici nous mettrons tous ce qui est en relation avec la première version de l'application.<br>
