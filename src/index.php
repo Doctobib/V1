@@ -33,8 +33,8 @@ include 'inc/header.php';
     </div>
   
     <div class="col-md-4 col-sm-6">
-      <h1> Connexion </h1>
       <form action="login.php" method="post" class="well">
+        <h1> Connexion </h1>
         <div class="form-group">
           <label for="identifiant">Identifiant</label>
           <input type="input" class="form-control" name="identifiant">

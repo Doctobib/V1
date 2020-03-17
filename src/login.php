@@ -31,8 +31,8 @@ $titre_page = "Se connecter";
 include 'inc/header.php';
 ?>
         <div class="container">
-            <h1> Connexion </h1>
             <form action="login.php" method="post" class="well col-md-6">
+                <h1> Connexion </h1>
                 <div class="form-group">
                     <label for="identifiant">Identifiant</label>
                     <input type="input" class="form-control" name="identifiant">

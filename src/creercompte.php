@@ -23,8 +23,8 @@ if(   !empty($_POST['num_ss'])
 
 <?php include 'inc/header.php'?>
         <div class="container">
-            <h1>Devenez membre </h1>
             <form action="creercompte.php" method="post" class="well col-md-6" autocomplete="off">
+                <h1>Devenez membre </h1>
                 <div class="form-group">
                     <label for="num_ss">Numero de sécurité sociale</label>
                     <input type="input" value="" class="form-control" name="num_ss">
